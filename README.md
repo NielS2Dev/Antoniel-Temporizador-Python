@@ -1,4 +1,4 @@
-# Projeto Básico de Cronômetro e Temporizador em Python (NielS2🥰)
+# Cronômetro e Temporizador em Python (NielS2🥰) Projeto Básico!
 
 > Status: Developing ⚠️
 
