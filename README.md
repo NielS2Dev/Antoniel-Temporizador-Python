@@ -1,3 +1,4 @@
+![cronometro](https://github.com/user-attachments/assets/a2d4bd3e-80a8-4023-884d-abab5cc02e2c)
 # Cronômetro e Temporizador em Python (NielS2🥰) Projeto Básico!
 
 > Status: Developing ⚠️
