@@ -1,4 +1,4 @@
-Projeto Básico de Cronômetro e Temporizador em Python (NielS2🥰)
+# Projeto Básico de Cronômetro e Temporizador em Python (NielS2🥰)
 
 Esse é um dos meus primeiros programas, bem básico, mas bastante útil! Ele oferece duas funcionalidades principais: um cronômetro e um temporizador. O cronômetro começa a contar o tempo assim que você o inicia e continua funcionando até você interrompê-lo com Ctrl+C. Ele exibe o tempo em horas, minutos e segundos, atualizando a cada segundo.
 
